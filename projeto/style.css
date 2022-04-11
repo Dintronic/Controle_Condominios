@@ -1,0 +1,25 @@
+.row{
+    text-align: center;
+   }
+.teste{
+    background-color: rgb(251, 253, 189);
+    color: black;
+    border-bottom: 0.5px solid rgb(126, 126, 126);
+}
+.defeito{
+    background-color: rgb(248, 223, 223);
+    color: black;
+    border-bottom: 0.5px solid rgb(126, 126, 126);
+}
+.sem_concerto{
+    background-color: rgb(194, 211, 243);
+    color: black;
+    border-bottom: 0.5px solid rgb(126, 126, 126);
+}
+.btn-floating{
+    font-weight: bold;
+}
+.preto{
+    color: black;
+    font-size: 16px;
+}

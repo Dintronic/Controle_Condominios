@@ -1,0 +1,13 @@
+.row{
+ text-align: center;
+}
+.colorlinha{
+    color: rgb(170, 0, 147);
+}
+.colorlinha1{
+    color: rgb(245, 0, 0);
+}
+.btn-floating{
+    font-weight: bold;
+}
+
